@@ -28,8 +28,8 @@ div {
   display: inline-block;
   float: left;
   background-color: #ccc;
-  width: 60px;
-  height: 60px;
+  width: 15px;
+  height: 15px;
 }
 .ink {
   background-color: #000;
