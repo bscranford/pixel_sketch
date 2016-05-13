@@ -1,6 +1,22 @@
+header {
+  text-align: center;
+}
 h1 {
   text-align: center;
   text-decoration: underline;
+}
+button {
+  padding: 10px 15px;
+  border-radius: 5px;
+  border: 1px solid #000;
+  background-color: #e57373;
+}
+button:active {
+  background-color: #e53935;
+  outline: none;
+}
+button:focus {
+  outline: none;
 }
 #container {
   width: 960px;
