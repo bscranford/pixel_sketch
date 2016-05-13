@@ -1,10 +1,12 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
 #container {
   width: 960px;
   height: 960px;
   margin: 20px auto;
   background-color: #aaa;
-}
-h1 {
-  text-align: center;
-  text-decoration: underline;
+  display: flex;
+  flex-wrap: wrap;
 }
