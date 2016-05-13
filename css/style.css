@@ -6,7 +6,8 @@ h1 {
   width: 960px;
   height: 960px;
   margin: 20px auto;
-  background-color: #aaa;
-  display: flex;
-  flex-wrap: wrap;
+  border: 1px solid #000;
+}
+div {
+
 }
